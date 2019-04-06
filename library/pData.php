@@ -775,7 +775,7 @@
 
    /* Convert a string to a single elements array */
    function convertToArray($Value)
-    { return array($Values); }
+    { return array($Value); }
 
    /* Class string wrapper */
    function __toString()
